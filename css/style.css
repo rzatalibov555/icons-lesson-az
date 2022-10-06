@@ -1,0 +1,36 @@
+
+.mySize{
+    font-size: 170px;
+    /* color: red;
+    background: blue; */
+    
+}
+
+.fleft{
+    float: left;
+}
+
+.myCla{
+    color: red;
+}
+
+.demo{
+    font-family: "Wingdings";
+}
+
+.logo{
+    font-family: "Wingdings";
+    color: blue;
+}
+
+.A1{
+    color:red;
+}
+
+.B1{
+    color: blue;
+}
+
+.C1{
+    color: green;
+}
